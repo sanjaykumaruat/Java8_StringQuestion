@@ -31,6 +31,7 @@
     T18_CountGenderInSalesMarketing
 
 05_Sorting
+
     T19_SortEmployees
     T20_SortByDepartmentThenSalary
 
