@@ -2,7 +2,7 @@ import java.util.Comparator;
 import java.util.Optional;
 import java.util.stream.Stream;
 
-public class LongestWordFromString {
+public class P02_LongestWordFromString {
 
     public static void main(String[] args) {
 

@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class AddMultiplicationSum {
+public class P01_AddMultiplicationSum {
     public static void main(String[] args) {
         List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5, 6, 16, 25, 36);
 

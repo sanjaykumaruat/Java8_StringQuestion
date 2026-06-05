@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class Sort1 {
+public class P06_Sort1 {
 
     public static void main(String[] args) {
 

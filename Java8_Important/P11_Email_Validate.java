@@ -1,5 +1,5 @@
 
-public class Email_Validate {
+public class P11_Email_Validate {
 
 	public static void main(String[] args) {
 

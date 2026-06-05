@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class MaxStringByLength {
+public class P03_MaxStringByLength {
     public static void main(String[] args) {
         List<String> names = Arrays.asList("sanjay", "kuma");
 

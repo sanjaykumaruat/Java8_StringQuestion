@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class FindStringStartsWithA {
+public class P09_FindStringStartsWithA {
 
 	public static void main(String[] args) {
 

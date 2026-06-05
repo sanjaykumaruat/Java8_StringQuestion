@@ -3,7 +3,7 @@
 import java.util.Arrays;
 import java.util.List;
 
-public class SumOfEvenNumbers {
+public class P08_SumOfEvenNumbers {
 
     public static void main(String[] args) {
 

@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class Sort2 {
+public class P07_Sort2 {
 
 	public static void main(String[] args) {
 

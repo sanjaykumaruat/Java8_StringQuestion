@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class Sort_Null {
+public class P04_Sort_Null {
 
 	public static void main(String[] args) {
 
